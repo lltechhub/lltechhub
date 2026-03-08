@@ -1,6 +1,6 @@
 <!-- Banner opcional (pode trocar por uma imagem sua ou ilustrativa de IA/Dev) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e79a7,100:f28e2b&height=180&section=header&text=Lucas%20Anael&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D6B,100:1E88C8&height=180&section=header&text=L%26L%20Tech%20Hub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
