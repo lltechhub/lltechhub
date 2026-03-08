@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A3D6B,50:A6E22E,100:1E88C8&amp;height=180&amp;section=header&amp;text=L%26L%20Tech%20Hub&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A3D6B,50:A6E22E,100:1E88C8&amp;height=180&amp;section=header&amp;text=LL%20Tech%20Hub&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=35"/>
 </p>
 
 ---
